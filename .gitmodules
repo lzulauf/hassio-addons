@@ -1,8 +1,8 @@
 [submodule "mumble-server"]
 	path = mumble-server
 	url = https://github.com/lzulauf/hassio-addon-mumble-server.git
-	branch = beta
+	branch = dev
 [submodule "icecast"]
 	path = icecast
 	url = https://github.com/lzulauf/hassio-addon-icecast.git
-	branch = beta
+	branch = dev
