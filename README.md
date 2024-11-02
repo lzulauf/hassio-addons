@@ -1,8 +1,8 @@
 # Luke's Home Assistant Addons Repository
 
 This repository hosts home assistant addons that I've written for various use cases, and currently includes:
-- [Icecast](icecast) - An internet radio host
-- [Mumble Server](mumble-server) - A voice chat server
+- [Icecast](https://github.com/lzulauf/hassio-addon-icecast/tree/dev) - An internet radio host
+- [Mumble Server](https://github.com/lzulauf/hassio-addon-mumble-server/tree/dev) - A voice chat server
 
 ## Channels
 
