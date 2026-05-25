@@ -3,6 +3,7 @@
 This repository hosts home assistant addons that I've written for various use cases, and currently includes:
 - [Icecast](https://github.com/lzulauf/hassio-addon-icecast/tree/dev) - An internet radio host
 - [Mumble Server](https://github.com/lzulauf/hassio-addon-mumble-server/tree/dev) - A voice chat server
+- [TRMNL Terminus](https://github.com/lzulauf/hassio-addon-trmnl-terminus/tree/dev) - A self-hosted TRMNL server
 
 ## Channels
 

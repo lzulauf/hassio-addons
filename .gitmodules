@@ -6,3 +6,7 @@
 	path = icecast
 	url = https://github.com/lzulauf/hassio-addon-icecast.git
 	branch = dev
+[submodule "trmnl-terminus"]
+	path = trmnl-terminus
+	url = https://github.com/lzulauf/hassio-addon-trmnl-terminus.git
+	branch = dev
